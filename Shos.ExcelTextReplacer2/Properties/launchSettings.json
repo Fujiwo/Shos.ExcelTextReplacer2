@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Shos.ExcelTextReplacer2": {
+      "commandName": "Project",
+      "commandLineArgs": "-i data\\i.xlsx,5,2 -t data\\t.xlsx,2,5"
+    }
+  }
+}
