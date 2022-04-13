@@ -94,7 +94,7 @@ namespace Shos.ExcelTextReplacer2
 
             inputWorkbook .Close(true);
             targetWorkbook.Close(true);
-         }
+        }
 
         static void Replace((Excel.Workbook workbook, int idColumn, int column) target, (Excel.Workbook workbook, int idColumn, int column) input)
         {
